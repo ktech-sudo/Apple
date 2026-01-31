@@ -56,12 +56,13 @@ p{
 }
 
 @keyframes up{
-  from{transform: translateY(100px);}
+  from{transform: translateY(40px);}
 }
 @keyframes grow{
   100%{
     transform: scale(1.1,1.1);
   }
 }
+
 
 
